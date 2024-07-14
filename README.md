@@ -1,1 +1,1 @@
-This project involves the design of the Control Unit for Mano's computer, as explained in the book "Computer System Architecture, 3rd Edition" by M. Morris Mano.
+Term Project for Digital Design 2 class. This project involves the design of the Control Unit for Mano's computer, as explained in the book "Computer System Architecture, 3rd Edition" by M. Morris Mano. The project was carried out in the Digital logic designer and circuit simulator environment called Digital by Helmut Neemann.
